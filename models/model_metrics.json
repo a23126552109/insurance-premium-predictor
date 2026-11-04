@@ -1,0 +1,12 @@
+{
+    "model_name": "INSURANCE_CHARGES_XGB",
+    "model_version": "V1",
+    "algorithm": "XGBoost Regressor",
+    "task": "Tabular Regression",
+    "metrics": {
+        "MAE": 2395.69,
+        "RMSE": 4237.94,
+        "R2_SCORE": 0.8843
+    },
+    "storage": "Snowflake Model Registry"
+}

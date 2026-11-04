@@ -1,0 +1,7 @@
+streamlit
+snowflake-snowpark-python
+snowflake-ml-python
+pandas
+numpy
+scikit-learn
+xgboost
